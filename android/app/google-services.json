@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "104068660131",
+    "firebase_url": "https://mysafes-a8bfd-default-rtdb.firebaseio.com",
+    "project_id": "mysafes-a8bfd",
+    "storage_bucket": "mysafes-a8bfd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104068660131:android:8a414a18e3ffdadc757816",
+        "android_client_info": {
+          "package_name": "com.example.mysafes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFzwdO7Ohm3oVJvKbWzS5fewZw2uDUVzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

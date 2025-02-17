@@ -1,0 +1,2 @@
+/Users/user/Documents/mysafes/android/app/.cxx/Debug/k256p2n4/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/user/Documents/mysafes/android/app/.cxx/Debug/k256p2n4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
