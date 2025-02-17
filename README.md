@@ -1,6 +1,6 @@
 # mysafes
 
-A new Flutter project.
+A new Flutter project. Screen video https://youtu.be/THdQaNzQocE
 
 ## Getting Started
 
